@@ -17,6 +17,7 @@ Art
 Traveling  
 Digital Media  
 Food  
+Movies  
 
 
 <!--
