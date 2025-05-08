@@ -13,10 +13,10 @@
 ---
 
 ### 💁🏻‍♀️ Ask me about
-Art
-Traveling
-Digital Media
-Food 
+Art  
+Traveling  
+Digital Media  
+Food  
 
 
 <!--
