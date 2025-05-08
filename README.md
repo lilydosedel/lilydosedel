@@ -2,7 +2,7 @@
 
 ### 👩🏻‍🎨 I'm passionate about using my creativity to make others look at the world differently. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lily-dosedel/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lilydosedel.com) [![Instagram Badge](https://img.shields.io/badge/Instagram?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Flil.dos%2F
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lily-dosedel/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lilydosedel.com) [![Instagram Badge](https://img.shields.io/badge/instagram-hotpink?style=flat-square&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Flil.dos%2F
 )](https://www.instagram.com/lil.dos/)
 
 ---  
@@ -13,10 +13,10 @@
 ---
 
 ### 💁🏻‍♀️ Ask me about
--- Art
--- Traveling
--- Digital Media
--- Food
+-- Art 
+-- Traveling 
+-- Digital Media 
+-- Food 
 
 
 <!--
