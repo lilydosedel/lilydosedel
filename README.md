@@ -1,4 +1,4 @@
-## Hello! I'm Lily.🙋🏻‍♀️
+## 🙋🏻‍♀️ Hello! I'm Lily.
 
 ### 👩🏻‍🎨 I'm passionate about using my creativity to make others look at the world differently. 
 
